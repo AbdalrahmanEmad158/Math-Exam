@@ -1,6 +1,14 @@
 Project Report: Math Quiz Game
 Introduction
-This report outlines the development and implementation of a math quiz game application. The primary objective of the project was to create an interactive and educational tool that challenges users with arithmetic problems at varying difficulty levels. The game incorporates fundamental arithmetic operations (addition, subtraction, multiplication, and division) and offers customizable settings for users to tailor the quiz experience to their preferences.
+This report outlines the development and implementation of a math quiz game application.
+
+
+
+ The primary objective of the project was to create an interactive and educational tool that challenges users with arithmetic problems at varying difficulty levels. 
+
+
+
+The game incorporates fundamental arithmetic operations (addition, subtraction, multiplication, and division) and offers customizable settings for users to tailor the quiz experience to their preferences.
 
 
 
